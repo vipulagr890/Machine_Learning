@@ -29,6 +29,7 @@ such as statistics and probablity theory are most important to understand the ou
      Overfitting
      Batch Gradient descent
      The domain of Work
+     Neural Network
      
  ## 4) projects:
    ### 1) Real State Price Prediction (Provides great insight for begineers in linear regression)
