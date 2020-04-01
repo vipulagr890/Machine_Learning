@@ -1,4 +1,4 @@
-# Machine_Learning_learning
+# Machine_Learning
 This contains the projects created during learning data science and machine learning
 
 So hey reader, This repository is created during i started learning data science and
