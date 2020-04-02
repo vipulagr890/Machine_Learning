@@ -26,7 +26,7 @@ such as statistics and probablity theory are most important to understand the ou
 
 ## 3) Basic knowledge of:(still updating)
      preprocessing of data
-     Overfitting
+     Difference between Overfitting model, underfitting model and A good model
      Batch Gradient descent
      The domain of Work
      Neural Network
