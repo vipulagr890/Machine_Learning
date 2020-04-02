@@ -21,6 +21,7 @@ such as statistics and probablity theory are most important to understand the ou
 
 
 ## 3) Basic knowledge of:(still updating)
+     INITIALIZATION
      preprocessing of data
      Difference between Overfitting model, underfitting model and A good model
      Batch Gradient descent
