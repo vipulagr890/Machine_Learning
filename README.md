@@ -31,11 +31,10 @@ such as statistics and probablity theory are most important to understand the ou
      Neural Network
      
  ## 4) projects:
-   ### 1) Real State Price Prediction (Provides great insight for begineers in linear regression)
-   ### 2) Stock price prediction (Provides grreat insight in Time series data) 
-   ### 3) clustering project
-   ### 4) classification based project (Provide great insight in classification problem and logistic regression)
-   ### 5)
+
+   ### 1) REgression and classification based project (Provide great insight in classification problem and logistic regression)
+   ### 2) Mnist Dataset project
+   ### 3) NLP project(coming soon)
   
   
      
