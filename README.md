@@ -1,13 +1,11 @@
+# (still need to complete)
+
 # Machine_Learning
 This repository contains the Learning process and projects used during learning data science
 and machine learning.
 
 So hey reader, This repository is created during i started learning data science and
 machine learning and created different projects during the learning phase.
-
-so first project is about linear regression. basically, linear regression is about preparing
-data sets and predicting possible outcome about any given condition using those data sets.
-
 
 note: some projects are copied from different sources including Github just for learning process.
 
@@ -25,19 +23,25 @@ such as statistics and probablity theory are most important to understand the ou
 
 
 ## 3) Basic knowledge of:(still updating)
+     INITIALIZATION
      preprocessing of data
-     Overfitting
+     Difference between Overfitting model, underfitting model and A good model
      Batch Gradient descent
      The domain of Work
      Neural Network
      
  ## 4) projects:
-   ### 1) Real State Price Prediction (Provides great insight for begineers in linear regression)
-   ### 2) Stock price prediction (Provides grreat insight in Time series data) 
-   ### 3) clustering project
-   ### 4) classification based project (Provide great insight in classification problem and logistic regression)
+
+   ### 1) Regression and classification based project (Provide great insight in classification problem and logistic regression)
+   ### 2) Mnist Dataset project
+   ### 3) NLP project(coming soon)
+   ### 4) Time series Project
    ### 5)
   
+  
+## 5) Important Research Papers to read:
+   ### 1) Tidy Data - http://vita.had.co.nz/papers/tidy-data.pdf
+
   
      
      
