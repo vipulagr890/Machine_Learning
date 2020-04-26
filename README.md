@@ -25,9 +25,17 @@ such as statistics and probablity theory are most important to understand the ou
 ## 3) Basic knowledge of:(still updating)
      INITIALIZATION
      preprocessing of data
+          Getting Business Knowledge
+          Data Exploration
+          missing value treatment
+          Outliers Treatment
+          Dummy variable creation
+          splitting data into test, train and validation data
+          Standardizing the data
+          Correlation Analysis
+          
      Difference between Overfitting model, underfitting model and A good model
      Batch Gradient descent
-     The domain of Work
      Neural Network
      
  ## 4) projects:
