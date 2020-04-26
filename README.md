@@ -32,10 +32,16 @@ such as statistics and probablity theory are most important to understand the ou
      
  ## 4) projects:
 
-   ### 1) REgression and classification based project (Provide great insight in classification problem and logistic regression)
+   ### 1) Regression and classification based project (Provide great insight in classification problem and logistic regression)
    ### 2) Mnist Dataset project
    ### 3) NLP project(coming soon)
+   ### 4) Time series Project
+   ### 5)
   
+  
+## 5) Important Research Papers to read:
+   ### 1) Tidy Data - http://vita.had.co.nz/papers/tidy-data.pdf
+
   
      
      
