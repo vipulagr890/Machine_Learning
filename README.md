@@ -40,7 +40,7 @@ such as statistics and probablity theory are most important to understand the ou
      
  ## 4) projects:
 
-   ### 1) Regression and classification based project (Provide great insight in classification problem and logistic regression)
+   ### 1) Regression based project 
    ### 2) Mnist Dataset project
    ### 3) NLP project
    ### 4) Time series Project(coming soon)
